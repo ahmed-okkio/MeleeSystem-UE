@@ -1,0 +1,14 @@
+Project: Melee System
+
+
+Goal: The primary goal of this project is to implement a dynamic and
+streamlined melee system with inuitive hit boxes and to highlight
+key elements using debug rendering. Secondly, to document the process
+thoroughly for a dev blog entry.
+
+Motivations: The main motivation is to gain more experience in implementing
+common game features and to develop a an efficient approach on implementing
+new gameplay features.
+
+
+Approach 1:
